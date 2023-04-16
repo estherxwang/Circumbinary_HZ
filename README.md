@@ -9,7 +9,7 @@ Identifying habitable zones (HZs) in circumbinary systems is difficult because o
 In this study, we provide an overview of current approaches to calculating HZs in circumbinary systems and perform a suite of Monte Carlo experiments using empirical relationships of stellar parameters. Our result demonstrates that circumbinary systems do not necessarily preclude the possibility of habitable planets, with 4.7% of the systems tested being able to support habitable worlds. The habitability and orbital stability of CBPs depend heavily on the primary star mass, orbital period, and eccentricity of binaries.
 
 ### Files
-Research Proposal.pdf: The research proposal for the project.
+ ** Research Proposal.pdf **: The research proposal for the project.
 AST424_Final_Report.pdf: The final report for the project.
 Data-MainSequenceSample.ipynb: Jupyter notebook used for generating data.
 Habitability-MainSequenceSample.ipynb: Jupyter notebook used for habitability analysis.
