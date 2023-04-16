@@ -10,8 +10,11 @@ In this study, we provide an overview of current approaches to calculating HZs i
 
 ### Files
 - Research Proposal.pdf: The research proposal for the project.
-AST424_Final_Report.pdf: The final report for the project.
-Data-MainSequenceSample.ipynb: Jupyter notebook used for generating data.
-Habitability-MainSequenceSample.ipynb: Jupyter notebook used for habitability analysis.
-Acknowledgements
-We would like to acknowledge the support of NASA's Kepler and TESS missions, which made this research possible. We would also like to thank our research advisor for their guidance and support throughout this project.
+- AST424_Final_Report.pdf: The final report for the project.
+- Data-MainSequenceSample.ipynb: Jupyter notebook used for generating data.
+- Habitability-MainSequenceSample.ipynb: Jupyter notebook used for habitability analysis.
+- 
+### Acknowledgements
+I would like to acknowledge the support of NASA's Kepler and TESS missions, which made this research possible. This project is heavily based on literature reviews for the methodology. 
+
+I would also like to thank our research advisor Dr. Lea Hirsch for their guidance and support throughout this project. 
